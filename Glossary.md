@@ -2,6 +2,8 @@
 
 ## This document is a glossary of technical terms used in the project and game design industry.
 
+
+
 ### Challenge A - SCRUM TERMS
 
 
